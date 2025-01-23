@@ -3,8 +3,8 @@
 ## 🧑‍💻 About me
 - 🌟 I am a Senior Frontend Developer.
 - 💻 I love creating visual appealing web applications with responsiveness.
-- 🧠 I have a strong foundation and interest in Html, Css, Javascript, and React.js, Next.js, tailwind css, bootstrap, redux, jest and vite.
-- 🔧 My other Stacks: Wordpress, Sass, MsSql and Graphics designing.
+- 🧠 I have a strong foundation and interest in Html, Css, Javascript, and React.js, Next.js, tailwind css, d3.js, recharts, framer-motion, bootstrap, redux, jest and vite.
+- 🔧 My other Stacks: Wordpress, Sass, MsSql and Graphics designing, AI.
 - 🌱 Updating in present trends and learning new things is the Ideal Goal.
 
 
