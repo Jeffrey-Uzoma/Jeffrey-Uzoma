@@ -1,9 +1,9 @@
 ## Hi, I'm Zhxade 👋
 
 ## 🧑‍💻 About me
-- 🌟 I am a Senior Frontend Developer.
+- 🌟 I am a Senior Fullstack Developer.
 - 💻 I love creating visual appealing web applications with responsiveness.
-- 🧠 I have a strong foundation in Html, Css, Javascript, Typescript, React.js, Next.js, tailwind css, d3.js, recharts, framer-motion, bootstrap, redux, jest and vite.
+- 🧠 I have a strong foundation in Html, Css, Javascript, Typescript, React.js, Next.js, tailwind css, d3.js, recharts, framer-motion, bootstrap, redux, jest and vite for frontend and then for the backend, i have strong experience with Node.js, Express,js, Mongo Db, Postgresql, Prisma and jwt Token.
 - 🔧 My other Stacks: Wordpress, Sass, MsSql and Graphics designing, AI.
 - 🌱 Updating in present trends and learning new things is the Ideal Goal.
 
